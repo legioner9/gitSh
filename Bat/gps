@@ -1,3 +1,4 @@
+cd ..
 ga .
 gc
 git push origin master
